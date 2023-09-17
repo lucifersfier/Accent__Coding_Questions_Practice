@@ -18,8 +18,6 @@ def is_anagram(str1 , str2):
     stat = False
     x=list(str1)
     y=list(str2)
-    print(x)
-    print(y)
     if(len(x)!=len(y)):
         return 'no'
     else:
