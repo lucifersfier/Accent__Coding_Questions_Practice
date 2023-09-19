@@ -21,5 +21,5 @@ def checkPassword(str,n):
     schar = "_"
     if(str[0] in number):
         return '0'
-#Complete            
+            
     
